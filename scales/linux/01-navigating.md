@@ -1,15 +1,15 @@
-# Linux 01 — Se repérer et se déplacer
+# Linux 01 — Navigating the file system
 
 ```bash
-docker run -it --rm ubuntu bash   # bac à sable Ubuntu, effacé à la sortie
-pwd                               # où suis-je ?
-ls /                              # contenu de la racine
-cd /home                          # aller dans un dossier
-cd ~                              # aller chez moi
-exit                              # quitter le conteneur
+docker run -it --rm ubuntu bash   # Ubuntu sandbox, deleted on exit
+pwd                               # where am I?
+ls /                              # contents of the root folder
+cd /home                          # go to a folder
+cd ~                              # go to my home folder
+exit                              # leave the container
 ```
 
-## À retenir
-- `root` = superutilisateur ; invite `#` (un utilisateur normal a `$`).
-- Le dossier de root est `/root`, pas `/home/root`.
-- Mac et Linux sont cousins (Unix) : mêmes commandes ; `/Users` sur Mac, `/home` sous Linux.
+## Takeaways
+- `root` is the superuser; its prompt ends with `#` (a regular user's ends with `$`).
+- root's home folder is `/root`, not `/home/root`.
+- macOS and Linux are cousins (both Unix): same commands; homes live in `/Users` on macOS, `/home` on Linux.
