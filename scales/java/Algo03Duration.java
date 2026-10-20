@@ -1,4 +1,4 @@
-public class Algo03Duree {
+public class Algo03Duration {
     public static void main(String[] args) {
         int total = 185;
         int minutes = total / 60;

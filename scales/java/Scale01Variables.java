@@ -1,4 +1,4 @@
-public class Gamme01Variables {
+public class Scale01Variables {
     public static void main(String[] args) {
        final String compositeur ="Chopin";
        int mesure = 1;

@@ -1,4 +1,4 @@
-public class Gamme03Operateurs {
+public class Scale03Operators {
     public static void main(String[] args) {
         int mesures = 32;
         int tempsParMesure = 4;

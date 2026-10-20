@@ -1,4 +1,4 @@
-public class Gamme02Types {
+public class Scale02Types {
     public static void main(String[] args) {
         String titre = "Nocturne op. 9 n° 2";
         int tempo = 60;

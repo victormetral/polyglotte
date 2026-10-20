@@ -1,4 +1,4 @@
-public class Algo02Echange {
+public class Algo02Swap {
     public static void main(String[] args) {
         String a = "Ravel";
         String b = "Liszt";
