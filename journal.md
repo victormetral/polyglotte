@@ -9,8 +9,8 @@
 | 2026-10-16 | 03 | Arithmetic operators + React etude 02 + algo 03 (pseudo-code) | TS · PHP · Java · Python · React | Java: int / int gives an int; Python has `/` and `//`; HMR fixed by restarting the dev server; edge case 3:05 |
 | 2026-10-19 | 03 | Catch-up: algo 03 coded, `play.sh`, Linux 01 | 4 languages · Linux | First `if/else`; first Bash script; root's home is `/root` |
 | 2026-10-20 | 03 | Catch-up: React etude 03, Linux 02, repository in English | React · Linux | `git mv` keeps file history; `rm` has no trash; servers run on UTC |
+| 2026-10-21 | 03 | Closing: Linux 03, ROADMAP, ADRs, licence | Linux | Bash arithmetic is integers only; `printf "%02d"` comes from C; `>` overwrites, `>>` appends |
 
 ## Next session
 
-- Finish session 03: Linux 03 (arithmetic in Bash), then closing (ROADMAP, ADRs, licence, release `v0.3.0`)
-- Session 04 on every voice: comparison operators
+- Session 04 on every voice: comparison operators (scale 04, algo 04, React etude 04, Linux 04)

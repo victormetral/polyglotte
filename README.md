@@ -76,8 +76,7 @@ journal.md       practice log
 | 00 | Hello world | TS · PHP · Java · Python | — |
 | 01 | Constants and variables | TS · PHP · Java · Python | — |
 | 02 | Basic types | 4 languages · React · algo 02 | #1 |
-| 03 | Arithmetic operators | 4 languages · React · algo 03 · Linux | #2 · in progress |
-
+| 03 | Arithmetic operators | 4 languages · React · algo 03 · Linux | #2 · #3 |
 ## 🎹 Method
 
 - **One number per session**, shared by every voice. A lagging voice is caught up before moving on.
