@@ -36,7 +36,7 @@
 | 20 | HTTP client + review | Big O: comparing two solutions | Loading and error states | HTTP with `curl` | CTEs (`WITH`) |
 | 21 | HTTP server without a framework | Hand-made hash table | React Router | Reverse proxy (Nginx) | Window functions |
 | 22 | Database access | Pagination | Form connected to an API | Secrets and `.env` files | Parameterized queries |
-| 23 | Advanced OOP (SOLID) | Binary tree | Component composition | Firewall (`ufw`) | Modeling, normalization |
+| 23 | Advanced OOP (inheritance, composition, SOLID) | Binary tree | Component composition | Firewall (`ufw`) | Modeling, normalization |
 | 24 | Design patterns | Graph traversal (BFS) | Context (`useContext`) | LFCA mock exam | Migrations (dbmate) |
 | 25 | General review; the Repertoire begins | Review | React Junior mock exam | Review | Repertoire schema |
 

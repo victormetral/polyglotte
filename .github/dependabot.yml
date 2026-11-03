@@ -1,0 +1,10 @@
+version: 2
+updates:
+  - package-ecosystem: "npm"
+    directory: "/scales/ts"
+    schedule:
+      interval: "weekly"
+  - package-ecosystem: "npm"
+    directory: "/scales/react"
+    schedule:
+      interval: "weekly"

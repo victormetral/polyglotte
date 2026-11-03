@@ -10,7 +10,8 @@
 | 2026-10-19 | 03 | Catch-up: algo 03 coded, `play.sh`, Linux 01 | 4 languages · Linux | First `if/else`; first Bash script; root's home is `/root` |
 | 2026-10-20 | 03 | Catch-up: React etude 03, Linux 02, repository in English | React · Linux | `git mv` keeps file history; `rm` has no trash; servers run on UTC |
 | 2026-10-21 | 03 | Closing: Linux 03, ROADMAP, ADRs, licence | Linux | Bash arithmetic is integers only; `printf "%02d"` comes from C; `>` overwrites, `>>` appends |
+| 2026-11-03 | 04 | Comparison operators + algo 04 + React etude 04 + Linux 04 | TS · PHP · Java · Python · React · Linux | Always `===`; Java `==` compares references, use `.equals()`; Python `is` checks identity; React renders nothing for `true`; in Bash, exit code 0 means true |
 
 ## Next session
 
-- Session 04 on every voice: comparison operators (scale 04, algo 04, React etude 04, Linux 04)
+- Session 05 on every voice: conditions (`if`, ternary, `switch`/`match`) + first review block
