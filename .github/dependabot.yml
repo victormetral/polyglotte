@@ -4,7 +4,13 @@ updates:
     directory: "/scales/ts"
     schedule:
       interval: "weekly"
+    groups:
+      npm-ts:
+        patterns: ["*"]
   - package-ecosystem: "npm"
     directory: "/scales/react"
     schedule:
       interval: "weekly"
+    groups:
+      npm-react:
+        patterns: ["*"]
