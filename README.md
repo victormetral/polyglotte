@@ -71,14 +71,13 @@ journal.md       practice log
 
 ## 📈 Progress
 
-| # | Concept | Voices | PR |
+| # | Topic | Voices | Release |
 |---|---|---|---|
-| 00 | Hello world | TS · PHP · Java · Python | — |
-| 01 | Constants and variables | TS · PHP · Java · Python | — |
-| 02 | Basic types | 4 languages · React · algo 02 | #1 |
-| 03 | Arithmetic operators | 4 languages · React · algo 03 · Linux | #2 · #3 |
-| 04 | Comparison operators | 4 languages · React · algo 04 · Linux | #4 |
-| 05 | Conditions + review | 4 languages · React · algo 05 · Linux | #5 |
+| 01 | Constants and variables | 4 languages · algo 01 (pseudo-code) | [v0.1.0](https://github.com/victormetral/polyglotte/releases/tag/v0.1.0) |
+| 02 | Basic types | 4 languages · React · algo 02 | [v0.2.0](https://github.com/victormetral/polyglotte/releases/tag/v0.2.0) |
+| 03 | Arithmetic operators | 4 languages · React · algo 03 · Linux | [v0.3.0](https://github.com/victormetral/polyglotte/releases/tag/v0.3.0) |
+| 04 | Comparison operators | 4 languages · React · algo 04 · Linux | [v0.4.0](https://github.com/victormetral/polyglotte/releases/tag/v0.4.0) |
+| 05 | Conditions + review | 4 languages · React · algo 05 · Linux | [v0.5.0](https://github.com/victormetral/polyglotte/releases/tag/v0.5.0) |
 
 ## 🎹 Method
 
