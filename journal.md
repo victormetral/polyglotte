@@ -11,7 +11,8 @@
 | 2026-10-20 | 03 | Catch-up: React etude 03, Linux 02, repository in English | React · Linux | `git mv` keeps file history; `rm` has no trash; servers run on UTC |
 | 2026-10-21 | 03 | Closing: Linux 03, ROADMAP, ADRs, licence | Linux | Bash arithmetic is integers only; `printf "%02d"` comes from C; `>` overwrites, `>>` appends |
 | 2026-11-03 | 04 | Comparison operators + algo 04 + React etude 04 + Linux 04 | TS · PHP · Java · Python · React · Linux | Always `===`; Java `==` compares references, use `.equals()`; Python `is` checks identity; React renders nothing for `true`; in Bash, exit code 0 means true |
+| 2026-11-09 | 05 | Conditions + algo 05 + React etude 05 + Linux 05 + first review | TS · PHP · Java · Python · React · Linux | `switch` falls through without `break`; PHP `match` and Java switch expressions are safer; React renders `0` with `&&`; root ignores file permissions |
 
 ## Next session
 
-- Session 05 on every voice: conditions (`if`, ternary, `switch`/`match`) + first review block
+- Session 06 on every voice: strings and regular expressions
